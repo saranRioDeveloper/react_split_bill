@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_split_bill/static/css/main.9ade03bb.css",
+    "main.js": "/react_split_bill/static/js/main.f8a47e01.js",
+    "index.html": "/react_split_bill/index.html",
+    "main.9ade03bb.css.map": "/react_split_bill/static/css/main.9ade03bb.css.map",
+    "main.f8a47e01.js.map": "/react_split_bill/static/js/main.f8a47e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ade03bb.css",
+    "static/js/main.f8a47e01.js"
+  ]
+}
